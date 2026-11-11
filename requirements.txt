@@ -1,0 +1,7 @@
+streamlit>=1.30
+mysql-connector-python>=8.0
+pandas
+matplotlib
+altair
+tzdata
+pytest
